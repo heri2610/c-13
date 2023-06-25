@@ -1,0 +1,37 @@
+/* Style login */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins&display=swap');
+
+#masuk {
+  background-image:linear-gradient(to bottom, #86CEFF , white);
+  min-height: 100vh;
+  font-family: 'Poppins', sans-serif;
+}
+#account {
+  margin-left: 270px;
+  width: 65px;
+  height: 65px;
+}
+
+#sign-in h3 {
+  font-weight: bold;
+  font-size: 38;
+  color: #7bd8f8;
+}
+#login {
+  width: 100%;
+  background-color: #ffffff;
+  border-radius: 10px;
+  gap: 30px;
+}
+#sign-in {
+  padding: 40px;
+}
+#sign-in img {
+  align-items: center;
+}
+
+.icon-right{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
